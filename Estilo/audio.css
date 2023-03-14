@@ -1,0 +1,55 @@
+#imgaudio1{
+    float:right;
+   display: inline-block;
+   width: 30%;
+}
+#imgaudio2{
+    margin-top: 10px;
+}
+#txtaudio1{
+    text-align:center;
+    font-size: 3.2em;
+    margin: 0px;
+    color: black;
+    margin-bottom: 80px;
+    width: 100%;
+    letter-spacing: 30px;
+    word-spacing: 30px;
+    font-weight:bold;
+}
+#txtaudio2{
+    text-align: justify;
+    font-size: 1.2em;
+    color: black;
+    border: inset;
+    border-color: black;
+    border-width: 15.5px;
+    border-radius: 15px;
+    width: 50%;
+}
+#audiotabla1{
+    margin-top: 150px;
+    border-color: black;
+    border-width: 15.5px;
+    border-radius: 15px;
+}
+#txtaudio3{
+    text-align: justify;
+    font-size: 1.2em;
+    color: black;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    font-weight: bold;
+    
+}
+p{
+    font-family: cursive;
+    font-size: 30px;
+}
+#ppp{
+    float: right;
+    display: inline-block;
+    width: 50%;
+    text-align: center;
+    margin-right: 200px;
+}
